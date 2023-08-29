@@ -33,13 +33,13 @@ Community leaders have the right and responsibility to remove, edit, or reject c
 
 ## Enforcement Guidelines
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the community leaders responsible for moderation by emailing `support@flakehub.com`.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported to the community leaders responsible for moderation by emailing `support@determinate.systems`.
 All complaints will be reviewed and investigated promptly and fairly.
 All community leaders must respect the privacy and security of the reporter of any incident.
 
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-- If you feel something needs attention, don't hesitate to email the FlakeHub moderation team via `support@flakehub.com`.
+- If you feel something needs attention, don't hesitate to email the Determinate Systems moderation team via `support@determinate.systems`.
 - If a community leader bans someone and you think it was unjustified, please **privately take it up with that community leader or a different community leader**.
   - Complaints about bans in-channel are not allowed.
 - Community leaders are held to a higher standard than other community members.
