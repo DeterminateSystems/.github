@@ -14,11 +14,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Generate README.md
         uses: muesli/readme-scribe@v0.1
-        #env:
-        #  GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
-          writeTo: "README.md"
+          writeTo: "profile/README.md"
       - name: Commit README.md
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
