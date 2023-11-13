@@ -11,11 +11,11 @@
 ## Welcome 👋
 
 We are [Determinate Systems](https://determinate.systems).
-**We're building the best development toolkit for Nix and NixOS** ❄️
+**We're building The best software development toolkit for Nix and Flakes** ❄️
 
 ### Blog 
 
-We regularly write about what we're working on, here are some recent blog posts:
+We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Lessons from 1 million Nix Installs](https://determinate.systems/posts/lessons-from-1-million-nix-installs) (6 days ago)
