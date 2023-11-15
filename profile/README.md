@@ -11,7 +11,7 @@
 ## Welcome 👋
 
 We are [Determinate Systems](https://determinate.systems).
-**We're building the best software development toolkit for Nix and Flakes** ❄️
+**We're building The best software development toolkit for Nix and Flakes** ❄️
 
 ### Blog 
 
