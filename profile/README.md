@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions) (today)
 - [A graphical installer for Nix](https://determinate.systems/posts/graphical-nix-installer) (5 days ago)
 - [Lessons from 1 million Nix Installs](https://determinate.systems/posts/lessons-from-1-million-nix-installs) (3 weeks ago)
 - [Nix Survival Mode: sheltering Nix from macOS upgrades](https://determinate.systems/posts/nix-survival-mode-on-macos) (1 month ago)
 - [FlakeHub updates: lightning-fast mirroring and webhook integrations](https://determinate.systems/posts/flakehub-updates) (1 month ago)
-- [Creating and modifying flakes using the FlakeHub CLI](https://determinate.systems/posts/fh-updates) (2 months ago)
