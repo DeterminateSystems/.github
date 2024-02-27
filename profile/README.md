@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions/) (2 months ago)
+- [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions/) (3 months ago)
 - [A graphical installer for Nix](https://determinate.systems/posts/graphical-nix-installer/) (3 months ago)
 - [Lessons from 1 million Nix Installs](https://determinate.systems/posts/lessons-from-1-million-nix-installs/) (3 months ago)
 - [Nix Survival Mode: sheltering Nix from macOS upgrades](https://determinate.systems/posts/nix-survival-mode-on-macos/) (4 months ago)
