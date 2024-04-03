@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta/) (2 weeks ago)
+- [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta/) (3 weeks ago)
 - [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions/) (4 months ago)
 - [A graphical installer for Nix](https://determinate.systems/posts/graphical-nix-installer/) (4 months ago)
 - [Lessons from 1 million Nix Installs](https://determinate.systems/posts/lessons-from-1-million-nix-installs/) (4 months ago)
