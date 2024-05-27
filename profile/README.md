@@ -20,6 +20,6 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 - [On community in Nix](https://determinate.systems/posts/on-community-in-nix/) (1 month ago)
 - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta/) (2 months ago)
-- [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions/) (5 months ago)
+- [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions/) (6 months ago)
 - [A graphical installer for Nix](https://determinate.systems/posts/graphical-nix-installer/) (6 months ago)
 - [Lessons from 1 million Nix Installs](https://determinate.systems/posts/lessons-from-1-million-nix-installs/) (6 months ago)
