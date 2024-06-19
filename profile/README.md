@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/) (5 days ago)
+- [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/) (6 days ago)
 - [On community in Nix](https://determinate.systems/posts/on-community-in-nix/) (1 month ago)
 - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta/) (3 months ago)
 - [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions/) (6 months ago)
