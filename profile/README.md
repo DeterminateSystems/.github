@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Discontinuing support for i686-linux in the Determinate Nix Installer](https://determinate.systems/posts/nix-installer-i686-linux/) (today)
 - [Parallel Nix evaluation](https://determinate.systems/posts/parallel-nix-eval/) (3 weeks ago)
 - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/) (1 month ago)
 - [On community in Nix](https://determinate.systems/posts/on-community-in-nix/) (2 months ago)
 - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta/) (4 months ago)
-- [KVM on GitHub Actions](https://determinate.systems/posts/kvm-on-github-actions/) (7 months ago)
