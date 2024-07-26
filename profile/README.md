@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Discontinuing support for i686-linux in the Determinate Nix Installer](https://determinate.systems/posts/nix-installer-i686-linux/) (1 day ago)
+- [Discontinuing support for i686-linux in the Determinate Nix Installer](https://determinate.systems/posts/nix-installer-i686-linux/) (2 days ago)
 - [Parallel Nix evaluation](https://determinate.systems/posts/parallel-nix-eval/) (4 weeks ago)
 - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/) (1 month ago)
 - [On community in Nix](https://determinate.systems/posts/on-community-in-nix/) (3 months ago)
