@@ -21,5 +21,5 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Discontinuing support for i686-linux in the Determinate Nix Installer](https://determinate.systems/posts/nix-installer-i686-linux/) (1 month ago)
 - [Parallel Nix evaluation](https://determinate.systems/posts/parallel-nix-eval/) (1 month ago)
 - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/) (2 months ago)
-- [On community in Nix](https://determinate.systems/posts/on-community-in-nix/) (3 months ago)
+- [On community in Nix](https://determinate.systems/posts/on-community-in-nix/) (4 months ago)
 - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta/) (5 months ago)
