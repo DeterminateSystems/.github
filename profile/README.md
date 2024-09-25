@@ -20,6 +20,6 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 - [Prepare Nix for macOS Sequoia](https://determinate.systems/posts/nix-support-for-macos-sequoia/) (1 week ago)
 - [Discontinuing support for i686-linux in the Determinate Nix Installer](https://determinate.systems/posts/nix-installer-i686-linux/) (2 months ago)
-- [Parallel Nix evaluation](https://determinate.systems/posts/parallel-nix-eval/) (2 months ago)
+- [Parallel Nix evaluation](https://determinate.systems/posts/parallel-nix-eval/) (3 months ago)
 - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/) (3 months ago)
 - [On community in Nix](https://determinate.systems/posts/on-community-in-nix/) (5 months ago)
