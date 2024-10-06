@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Fully automated Nix installation for macOS on AWS EC2](https://determinate.systems/posts/unattended-nix-install-macos-aws-ec2/) (4 days ago)
+- [Fully automated Nix installation for macOS on AWS EC2](https://determinate.systems/posts/unattended-nix-install-macos-aws-ec2/) (5 days ago)
 - [Solving corporate TLS certificates for Nix on macOS](https://determinate.systems/posts/zscaler-macos-and-nix-on-corporate-networks/) (1 week ago)
 - [Prepare Nix for macOS Sequoia](https://determinate.systems/posts/nix-support-for-macos-sequoia/) (3 weeks ago)
 - [Discontinuing support for i686-linux in the Determinate Nix Installer](https://determinate.systems/posts/nix-installer-i686-linux/) (2 months ago)
