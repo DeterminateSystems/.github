@@ -20,6 +20,6 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 - [Discontinuing support for macOS Monterey](https://determinate.systems/posts/nix-installer-macos-12-monterey/) (1 week ago)
 - [Fully automated Nix installation for macOS on AWS EC2](https://determinate.systems/posts/unattended-nix-install-macos-aws-ec2/) (2 weeks ago)
-- [Solving corporate TLS certificates for Nix on macOS](https://determinate.systems/posts/zscaler-macos-and-nix-on-corporate-networks/) (2 weeks ago)
+- [Solving corporate TLS certificates for Nix on macOS](https://determinate.systems/posts/zscaler-macos-and-nix-on-corporate-networks/) (3 weeks ago)
 - [Prepare Nix for macOS Sequoia](https://determinate.systems/posts/nix-support-for-macos-sequoia/) (1 month ago)
 - [Discontinuing support for i686-linux in the Determinate Nix Installer](https://determinate.systems/posts/nix-installer-i686-linux/) (2 months ago)
