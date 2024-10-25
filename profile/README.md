@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/) (1 day ago)
-- [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/) (3 days ago)
+- [Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/) (2 days ago)
+- [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/) (4 days ago)
 - [Discontinuing support for macOS Monterey](https://determinate.systems/posts/nix-installer-macos-12-monterey/) (2 weeks ago)
 - [Fully automated Nix installation for macOS on AWS EC2](https://determinate.systems/posts/unattended-nix-install-macos-aws-ec2/) (3 weeks ago)
-- [Solving corporate TLS certificates for Nix on macOS](https://determinate.systems/posts/zscaler-macos-and-nix-on-corporate-networks/) (3 weeks ago)
+- [Solving corporate TLS certificates for Nix on macOS](https://determinate.systems/posts/zscaler-macos-and-nix-on-corporate-networks/) (4 weeks ago)
