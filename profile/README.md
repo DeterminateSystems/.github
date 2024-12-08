@@ -21,5 +21,5 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [The future of software is Nix](https://determinate.systems/posts/the-future-is-nix/) (1 month ago)
 - [Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/) (1 month ago)
 - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/) (1 month ago)
-- [Discontinuing support for macOS Monterey](https://determinate.systems/posts/nix-installer-macos-12-monterey/) (1 month ago)
+- [Discontinuing support for macOS Monterey](https://determinate.systems/posts/nix-installer-macos-12-monterey/) (2 months ago)
 - [Fully automated Nix installation for macOS on AWS EC2](https://determinate.systems/posts/unattended-nix-install-macos-aws-ec2/) (2 months ago)
