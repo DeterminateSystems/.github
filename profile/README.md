@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Determinate Nix now supports migrating from other caches](https://determinate.systems/posts/flakehub-cache-migration/) (4 days ago)
+- [Determinate Nix now supports migrating from other caches](https://determinate.systems/posts/flakehub-cache-migration/) (5 days ago)
 - [The future of software is Nix](https://determinate.systems/posts/the-future-is-nix/) (1 month ago)
 - [Nix at work: FlakeHub Cache and private flakes](https://determinate.systems/posts/flakehub-cache-and-private-flakes/) (2 months ago)
 - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/) (2 months ago)
