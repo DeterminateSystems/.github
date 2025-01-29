@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Supercharging Nix deployments with FlakeHub Cache](https://determinate.systems/posts/home-manager-deployments-with-fh/) (4 days ago)
+- [Supercharging Nix deployments with FlakeHub Cache](https://determinate.systems/posts/home-manager-deployments-with-fh/) (5 days ago)
 - [End of life for the free tier of the Magic Nix Cache](https://determinate.systems/posts/magic-nix-cache-free-tier-eol/) (1 week ago)
 - [Changelog: customer binding, nix.conf, and yanked Nix 2.25.4](https://determinate.systems/posts/changelog-determinate-nix-030/) (2 weeks ago)
 - [Determinate Nix now supports migrating from other caches](https://determinate.systems/posts/flakehub-cache-migration/) (1 month ago)
