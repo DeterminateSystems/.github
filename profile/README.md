@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Determinate is now directly compatible with nix-darwin](https://determinate.systems/posts/nix-darwin-updates/) (today)
 - [Changelog: improved nix-darwin support for Determinate!](https://determinate.systems/posts/changelog-determinate-nix-033/) (1 day ago)
 - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/) (1 week ago)
 - [Supercharging Nix deployments with FlakeHub Cache](https://determinate.systems/posts/home-manager-deployments-with-fh/) (3 weeks ago)
 - [End of life for the free tier of the Magic Nix Cache](https://determinate.systems/posts/magic-nix-cache-free-tier-eol/) (4 weeks ago)
-- [Changelog: customer binding, nix.conf, and yanked Nix 2.25.4](https://determinate.systems/posts/changelog-determinate-nix-030/) (1 month ago)
