@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Fetch artifacts directly from FlakeHub Cache using `fh fetch`](https://determinate.systems/posts/fh-fetch/) (1 day ago)
-- [Introducing Determinate AMIs for NixOS](https://determinate.systems/posts/nixos-amis/) (3 days ago)
-- [Changelog: version synchronization to 0.37.1](https://determinate.systems/posts/changelog-determinate-nix-0371/) (6 days ago)
+- [Fetch artifacts directly from FlakeHub Cache using `fh fetch`](https://determinate.systems/posts/fh-fetch/) (2 days ago)
+- [Introducing Determinate AMIs for NixOS](https://determinate.systems/posts/nixos-amis/) (4 days ago)
+- [Changelog: version synchronization to 0.37.1](https://determinate.systems/posts/changelog-determinate-nix-0371/) (1 week ago)
 - [Determinate is now directly compatible with nix-darwin](https://determinate.systems/posts/nix-darwin-updates/) (1 week ago)
 - [Changelog: improved nix-darwin support for Determinate!](https://determinate.systems/posts/changelog-determinate-nix-033/) (1 week ago)
