@@ -21,5 +21,5 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Determinate Nix 3.0](https://determinate.systems/posts/determinate-nix-30/) (1 week ago)
 - [Fetch artifacts directly from FlakeHub Cache using `fh fetch`](https://determinate.systems/posts/fh-fetch/) (2 weeks ago)
 - [Introducing Determinate AMIs for NixOS](https://determinate.systems/posts/nixos-amis/) (2 weeks ago)
-- [Changelog: version synchronization to 0.37.1](https://determinate.systems/posts/changelog-determinate-nix-0371/) (2 weeks ago)
+- [Changelog: version synchronization to 0.37.1](https://determinate.systems/posts/changelog-determinate-nix-0371/) (3 weeks ago)
 - [Determinate is now directly compatible with nix-darwin](https://determinate.systems/posts/nix-darwin-updates/) (3 weeks ago)
