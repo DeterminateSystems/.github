@@ -19,7 +19,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Best practices for Nix at work](https://determinate.systems/posts/best-practices-for-nix-at-work/) (1 week ago)
-- [Determinate Nix 3.0](https://determinate.systems/posts/determinate-nix-30/) (4 weeks ago)
+- [Determinate Nix 3.0](https://determinate.systems/posts/determinate-nix-30/) (1 month ago)
 - [Fetch artifacts directly from FlakeHub Cache using `fh fetch`](https://determinate.systems/posts/fh-fetch/) (1 month ago)
 - [Introducing Determinate AMIs for NixOS](https://determinate.systems/posts/nixos-amis/) (1 month ago)
 - [Changelog: version synchronization to 0.37.1](https://determinate.systems/posts/changelog-determinate-nix-0371/) (1 month ago)
