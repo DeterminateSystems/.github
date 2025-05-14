@@ -19,7 +19,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Changelog: deprecating channels and indirect flake references](https://determinate.systems/posts/changelog-determinate-nix-342/) (1 week ago)
-- [Changelog: JSON logging, a new experience around hash mismatches, and more](https://determinate.systems/posts/changelog-determinate-nix-331/) (3 weeks ago)
+- [Changelog: JSON logging, a new experience around hash mismatches, and more](https://determinate.systems/posts/changelog-determinate-nix-331/) (4 weeks ago)
 - [Best practices for Nix at work](https://determinate.systems/posts/best-practices-for-nix-at-work/) (1 month ago)
 - [Determinate Nix 3.0](https://determinate.systems/posts/determinate-nix-30/) (2 months ago)
 - [Fetch artifacts directly from FlakeHub Cache using `fh fetch`](https://determinate.systems/posts/fh-fetch/) (2 months ago)
