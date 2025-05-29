@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Determinate Nix Action](https://determinate.systems/posts/determinate-nix-action/) (today)
-- [Changelog: introducing lazy trees](https://determinate.systems/posts/changelog-determinate-nix-352/) (1 week ago)
+- [Determinate Nix Action](https://determinate.systems/posts/determinate-nix-action/) (1 day ago)
+- [Changelog: introducing lazy trees](https://determinate.systems/posts/changelog-determinate-nix-352/) (2 weeks ago)
 - [Changelog: deprecating channels and indirect flake references](https://determinate.systems/posts/changelog-determinate-nix-342/) (3 weeks ago)
 - [Changelog: JSON logging, a new experience around hash mismatches, and more](https://determinate.systems/posts/changelog-determinate-nix-331/) (1 month ago)
 - [Best practices for Nix at work](https://determinate.systems/posts/best-practices-for-nix-at-work/) (2 months ago)
