@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Changelog: docs, diagnostics, and resilience improvements](https://determinate.systems/posts/changelog-determinate-nix-362/) (today)
 - [Changelog: improved support for self-hosted GitHub Actions runners](https://determinate.systems/posts/changelog-improved-self-hosted-determinate-nix-action/) (1 week ago)
 - [Determinate Nix Action](https://determinate.systems/posts/determinate-nix-action/) (1 week ago)
 - [Changelog: introducing lazy trees](https://determinate.systems/posts/changelog-determinate-nix-352/) (3 weeks ago)
 - [Changelog: deprecating channels and indirect flake references](https://determinate.systems/posts/changelog-determinate-nix-342/) (1 month ago)
-- [Changelog: JSON logging, a new experience around hash mismatches, and more](https://determinate.systems/posts/changelog-determinate-nix-331/) (1 month ago)
