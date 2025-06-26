@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: Lazy trees and security improvements](https://determinate.systems/posts/changelog-determinate-nix-367/) (1 day ago)
-- [FlakeHub now supports Semaphore CI](https://determinate.systems/posts/semaphore-ci/) (6 days ago)
+- [Changelog: Lazy trees and security improvements](https://determinate.systems/posts/changelog-determinate-nix-367/) (2 days ago)
+- [FlakeHub now supports Semaphore CI](https://determinate.systems/posts/semaphore-ci/) (1 week ago)
 - [Changelog: macOS Tahoe, lazy trees, and docs in Determinate Nix 3.6.6](https://determinate.systems/posts/changelog-determinate-nix-366/) (1 week ago)
 - [Bringing back the Magic Nix Cache Action](https://determinate.systems/posts/bringing-back-magic-nix-cache-action/) (1 week ago)
-- [Changelog: docs, diagnostics, and resilience improvements](https://determinate.systems/posts/changelog-determinate-nix-362/) (2 weeks ago)
+- [Changelog: docs, diagnostics, and resilience improvements](https://determinate.systems/posts/changelog-determinate-nix-362/) (3 weeks ago)
