@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: faster CI, deep flake overrides, and a better `nix store delete` in Determinate Nix 3.7.0](https://determinate.systems/posts/changelog-determinate-nix-370/) (4 days ago)
+- [Changelog: faster CI, deep flake overrides, and a better `nix store delete` in Determinate Nix 3.7.0](https://determinate.systems/posts/changelog-determinate-nix-370/) (5 days ago)
 - [Changelog: Lazy trees and security improvements](https://determinate.systems/posts/changelog-determinate-nix-367/) (2 weeks ago)
 - [FlakeHub now supports Semaphore CI](https://determinate.systems/posts/semaphore-ci/) (2 weeks ago)
-- [Changelog: macOS Tahoe, lazy trees, and docs in Determinate Nix 3.6.6](https://determinate.systems/posts/changelog-determinate-nix-366/) (2 weeks ago)
+- [Changelog: macOS Tahoe, lazy trees, and docs in Determinate Nix 3.6.6](https://determinate.systems/posts/changelog-determinate-nix-366/) (3 weeks ago)
 - [Bringing back the Magic Nix Cache Action](https://determinate.systems/posts/bringing-back-magic-nix-cache-action/) (3 weeks ago)
