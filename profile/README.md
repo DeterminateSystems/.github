@@ -21,5 +21,5 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Changelog: Determinate Nix 3.8.1 with important security updates](https://determinate.systems/posts/changelog-determinate-nix-381/) (1 week ago)
 - [Changelog: a faster `nix flake check`, improved flake locks, and lazy trees rolled out to 20% of users](https://determinate.systems/posts/changelog-determinate-nix-380/) (1 week ago)
 - [Changelog: faster CI, deep flake overrides, and a better `nix store delete` in Determinate Nix 3.7.0](https://determinate.systems/posts/changelog-determinate-nix-370/) (2 weeks ago)
-- [Changelog: Lazy trees and security improvements](https://determinate.systems/posts/changelog-determinate-nix-367/) (3 weeks ago)
+- [Changelog: Lazy trees and security improvements](https://determinate.systems/posts/changelog-determinate-nix-367/) (4 weeks ago)
 - [FlakeHub now supports Semaphore CI](https://determinate.systems/posts/semaphore-ci/) (1 month ago)
