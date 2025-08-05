@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Changelog: a native Linux builder for macOS](https://determinate.systems/blog/changelog-determinate-nix-384/) (today)
 - [Changelog: Determinate Nix 3.8.1 with important security updates](https://determinate.systems/blog/changelog-determinate-nix-381/) (3 weeks ago)
 - [Changelog: a faster `nix flake check`, improved flake locks, and lazy trees rolled out to 20% of users](https://determinate.systems/blog/changelog-determinate-nix-380/) (3 weeks ago)
 - [Changelog: faster CI, deep flake overrides, and a better `nix store delete` in Determinate Nix 3.7.0](https://determinate.systems/blog/changelog-determinate-nix-370/) (1 month ago)
 - [Changelog: Lazy trees and security improvements](https://determinate.systems/blog/changelog-determinate-nix-367/) (1 month ago)
-- [FlakeHub now supports Semaphore CI](https://determinate.systems/blog/semaphore-ci/) (1 month ago)
