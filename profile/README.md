@@ -19,7 +19,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Changelog: build-time flake inputs and unauthenticated upgrades](https://determinate.systems/blog/changelog-determinate-nix-390/) (1 week ago)
-- [Changelog: Determinate now has a nix-darwin module, plus loads of performance perks](https://determinate.systems/blog/changelog-determinate-nix-386/) (1 week ago)
+- [Changelog: Determinate now has a nix-darwin module, plus loads of performance perks](https://determinate.systems/blog/changelog-determinate-nix-386/) (2 weeks ago)
 - [Changelog: a native Linux builder for macOS](https://determinate.systems/blog/changelog-determinate-nix-384/) (1 month ago)
 - [Changelog: Determinate Nix 3.8.1 with important security updates](https://determinate.systems/blog/changelog-determinate-nix-381/) (1 month ago)
 - [Changelog: a faster `nix flake check`, improved flake locks, and lazy trees rolled out to 20% of users](https://determinate.systems/blog/changelog-determinate-nix-380/) (1 month ago)
