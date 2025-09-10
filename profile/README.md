@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Parallel evaluation comes to Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3111/) (4 days ago)
-- [Changelog: build-time flake inputs and unauthenticated upgrades](https://determinate.systems/blog/changelog-determinate-nix-390/) (1 week ago)
+- [Parallel evaluation comes to Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3111/) (5 days ago)
+- [Changelog: build-time flake inputs and unauthenticated upgrades](https://determinate.systems/blog/changelog-determinate-nix-390/) (2 weeks ago)
 - [Changelog: Determinate now has a nix-darwin module, plus loads of performance perks](https://determinate.systems/blog/changelog-determinate-nix-386/) (2 weeks ago)
 - [Changelog: a native Linux builder for macOS](https://determinate.systems/blog/changelog-determinate-nix-384/) (1 month ago)
-- [Changelog: Determinate Nix 3.8.1 with important security updates](https://determinate.systems/blog/changelog-determinate-nix-381/) (1 month ago)
+- [Changelog: Determinate Nix 3.8.1 with important security updates](https://determinate.systems/blog/changelog-determinate-nix-381/) (2 months ago)
