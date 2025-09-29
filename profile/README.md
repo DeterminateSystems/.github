@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Determinate Nix: the recent past and the shining future](https://determinate.systems/blog/determinate-nix-recap/) (5 days ago)
+- [Determinate Nix: the recent past and the shining future](https://determinate.systems/blog/determinate-nix-recap/) (6 days ago)
 - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) (2 weeks ago)
 - [Parallel evaluation comes to Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3111/) (3 weeks ago)
 - [Changelog: build-time flake inputs and unauthenticated upgrades](https://determinate.systems/blog/changelog-determinate-nix-390/) (1 month ago)
