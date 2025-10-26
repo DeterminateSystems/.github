@@ -21,5 +21,5 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Determinate Nix: the recent past and the shining future](https://determinate.systems/blog/determinate-nix-recap/) (1 month ago)
 - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) (1 month ago)
 - [Parallel evaluation comes to Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3111/) (1 month ago)
-- [Changelog: build-time flake inputs and unauthenticated upgrades](https://determinate.systems/blog/changelog-determinate-nix-390/) (1 month ago)
+- [Changelog: build-time flake inputs and unauthenticated upgrades](https://determinate.systems/blog/changelog-determinate-nix-390/) (2 months ago)
 - [Changelog: Determinate now has a nix-darwin module, plus loads of performance perks](https://determinate.systems/blog/changelog-determinate-nix-386/) (2 months ago)
