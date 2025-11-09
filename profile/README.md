@@ -20,6 +20,6 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 - [Changelog: introducing `nix nario`](https://determinate.systems/blog/changelog-determinate-nix-3120/) (1 week ago)
 - [Determinate Nix: the recent past and the shining future](https://determinate.systems/blog/determinate-nix-recap/) (1 month ago)
-- [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) (1 month ago)
+- [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) (2 months ago)
 - [Parallel evaluation comes to Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3111/) (2 months ago)
 - [Changelog: build-time flake inputs and unauthenticated upgrades](https://determinate.systems/blog/changelog-determinate-nix-390/) (2 months ago)
