@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: a whole bevy of small improvements for Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3132/) (3 days ago)
-- [Nix flakes explained: what they solve, why they matter, and the future](https://determinate.systems/blog/nix-flakes-explained/) (5 days ago)
+- [Changelog: a whole bevy of small improvements for Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3132/) (4 days ago)
+- [Nix flakes explained: what they solve, why they matter, and the future](https://determinate.systems/blog/nix-flakes-explained/) (6 days ago)
 - [Changelog: introducing `nix nario`](https://determinate.systems/blog/changelog-determinate-nix-3120/) (3 weeks ago)
 - [Determinate Nix: the recent past and the shining future](https://determinate.systems/blog/determinate-nix-recap/) (2 months ago)
 - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) (2 months ago)
