@@ -22,4 +22,4 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Nix flakes explained: what they solve, why they matter, and the future](https://determinate.systems/blog/nix-flakes-explained/) (2 weeks ago)
 - [Changelog: introducing `nix nario`](https://determinate.systems/blog/changelog-determinate-nix-3120/) (1 month ago)
 - [Determinate Nix: the recent past and the shining future](https://determinate.systems/blog/determinate-nix-recap/) (2 months ago)
-- [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) (2 months ago)
+- [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/) (3 months ago)
