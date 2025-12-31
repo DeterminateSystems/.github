@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: a new command for visualizing active Nix builds and much more](https://determinate.systems/blog/changelog-determinate-nix-3140/) (2 weeks ago)
+- [Changelog: a new command for visualizing active Nix builds and much more](https://determinate.systems/blog/changelog-determinate-nix-3140/) (3 weeks ago)
 - [Changelog: a whole bevy of small improvements for Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3132/) (1 month ago)
 - [Nix flakes explained: what they solve, why they matter, and the future](https://determinate.systems/blog/nix-flakes-explained/) (1 month ago)
 - [Changelog: introducing `nix nario`](https://determinate.systems/blog/changelog-determinate-nix-3120/) (2 months ago)
