@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing Determinate Secure Packages](https://determinate.systems/blog/determinate-secure-packages/) (6 days ago)
-- [Changelog: new year, new Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3151/) (1 week ago)
+- [Introducing Determinate Secure Packages](https://determinate.systems/blog/determinate-secure-packages/) (1 week ago)
+- [Changelog: new year, new Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3151/) (2 weeks ago)
 - [Changelog: a new command for visualizing active Nix builds and much more](https://determinate.systems/blog/changelog-determinate-nix-3140/) (1 month ago)
-- [Changelog: a whole bevy of small improvements for Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3132/) (1 month ago)
+- [Changelog: a whole bevy of small improvements for Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3132/) (2 months ago)
 - [Nix flakes explained: what they solve, why they matter, and the future](https://determinate.systems/blog/nix-flakes-explained/) (2 months ago)
