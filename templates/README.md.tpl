@@ -10,8 +10,50 @@
 
 ## Welcome 👋
 
-We are [Determinate Systems](https://determinate.systems).
 **We're building the best software development toolkit for Nix and Flakes** ❄️
+
+Get started with [Zero to Nix](https://zero-to-nix.com) and then bring your Nix flakes to [FlakeHub](https://flakehub.com)!
+
+### [Determinate Nix Installer](https://github.com/DeterminateSystems/nix-installer)
+
+Install Nix and flakes with the fast and reliable [Determinate Nix Installer](https://github.com/DeterminateSystems/nix-installer). Proven on macOS, many Linuxes including SELinux, WSL, containers, and more.
+
+**macOS, Linux, WSL, Containers**
+```shell
+curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
+```
+
+**GitHub Actions**: `.github/workflows/ci.yml`
+```yaml
+- uses: DeterminateSystems/nix-installer-action@main
+```
+
+### [Magic Nix Cache](https://github.com/marketplace/actions/magic-nix-cache)
+
+Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a free and zero-configuration binary cache for Nix on GitHub Actions.
+
+**GitHub Actions**: `.github/workflows/ci.yml`
+```yaml
+- uses: DeterminateSystems/magic-nix-cache-action@main
+```
+
+### [Determinate Nix Flake Checker](https://github.com/marketplace/actions/nix-flake-checker)
+
+Perform health checks on the `flake.lock` files in your flake-powered Nix projects. Stay safe and secure by using recent, supported versions of Nixpkgs.
+
+**GitHub Actions**: `.github/workflows/ci.yml`
+```yaml
+- uses: DeterminateSystems/nix-flake-checker-action@main
+```
+
+### [Determinate Nix Flake Updater](https://github.com/marketplace/actions/update-nix-flake-lock)
+
+Automatically refresh your Nix Flakes.
+
+**GitHub Actions**: `.github/workflows/ci.yml`
+```yaml
+- uses: DeterminateSystems/update-flake-lock@main
+```
 
 ### Blog 
 
