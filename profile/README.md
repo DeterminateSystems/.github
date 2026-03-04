@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: Google Cloud Platform auth, parallel eval unleashed, and more](https://determinate.systems/blog/changelog-determinate-nix-3163/) (today)
+- [Changelog: Google Cloud Platform auth, parallel eval unleashed, and more](https://determinate.systems/blog/changelog-determinate-nix-3163/) (1 day ago)
 - [Changelog: a more powerful nix-darwin module and more](https://determinate.systems/blog/changelog-determinate-nix-3152/) (1 month ago)
 - [Introducing Determinate Secure Packages](https://determinate.systems/blog/determinate-secure-packages/) (1 month ago)
 - [Changelog: new year, new Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3151/) (1 month ago)
