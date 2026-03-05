@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/) (today)
 - [Determinate is the future of Nix today: Wasm, provenance, and flake schemas](https://determinate.systems/blog/determinate-nix-future/) (1 day ago)
 - [Changelog: Google Cloud Platform auth, parallel eval unleashed, and more](https://determinate.systems/blog/changelog-determinate-nix-3163/) (2 days ago)
 - [Changelog: a more powerful nix-darwin module and more](https://determinate.systems/blog/changelog-determinate-nix-3152/) (1 month ago)
 - [Introducing Determinate Secure Packages](https://determinate.systems/blog/determinate-secure-packages/) (1 month ago)
-- [Changelog: new year, new Determinate Nix](https://determinate.systems/blog/changelog-determinate-nix-3151/) (1 month ago)
