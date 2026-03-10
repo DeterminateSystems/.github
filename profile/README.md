@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Extensible flake outputs with flake schemas](https://determinate.systems/blog/introducing-flake-schemas/) (3 days ago)
-- [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/) (4 days ago)
-- [Determinate is the future of Nix today: Wasm, provenance, and flake schemas](https://determinate.systems/blog/determinate-nix-future/) (5 days ago)
-- [Changelog: Google Cloud Platform auth, parallel eval unleashed, and more](https://determinate.systems/blog/changelog-determinate-nix-3163/) (6 days ago)
+- [Extensible flake outputs with flake schemas](https://determinate.systems/blog/introducing-flake-schemas/) (4 days ago)
+- [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/) (5 days ago)
+- [Determinate is the future of Nix today: Wasm, provenance, and flake schemas](https://determinate.systems/blog/determinate-nix-future/) (6 days ago)
+- [Changelog: Google Cloud Platform auth, parallel eval unleashed, and more](https://determinate.systems/blog/changelog-determinate-nix-3163/) (1 week ago)
 - [Changelog: a more powerful nix-darwin module and more](https://determinate.systems/blog/changelog-determinate-nix-3152/) (1 month ago)
