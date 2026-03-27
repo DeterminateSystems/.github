@@ -19,7 +19,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Support for AWS GovCloud and European Sovereign Cloud](https://determinate.systems/blog/govcloud-eusc/) (2 weeks ago)
-- [Extensible flake outputs with flake schemas](https://determinate.systems/blog/introducing-flake-schemas/) (2 weeks ago)
+- [Extensible flake outputs with flake schemas](https://determinate.systems/blog/introducing-flake-schemas/) (3 weeks ago)
 - [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/) (3 weeks ago)
 - [Determinate is the future of Nix today: Wasm, provenance, and flake schemas](https://determinate.systems/blog/determinate-nix-future/) (3 weeks ago)
 - [Changelog: Google Cloud Platform auth, parallel eval unleashed, and more](https://determinate.systems/blog/changelog-determinate-nix-3163/) (3 weeks ago)
