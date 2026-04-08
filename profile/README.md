@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: Determinate Nix 3.17.3](https://determinate.systems/blog/changelog-determinate-nix-3-17-3/) (today)
+- [Changelog: Determinate Nix 3.17.3](https://determinate.systems/blog/changelog-determinate-nix-3-17-3/) (1 day ago)
 - [Support for AWS GovCloud and European Sovereign Cloud](https://determinate.systems/blog/govcloud-eusc/) (4 weeks ago)
 - [Extensible flake outputs with flake schemas](https://determinate.systems/blog/introducing-flake-schemas/) (1 month ago)
 - [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/) (1 month ago)
