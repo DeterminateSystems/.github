@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Long-term support for Determinate Secure Packages 25.11](https://determinate.systems/blog/secure-packages-2511-support/) (1 day ago)
-- [The Nix moment](https://determinate.systems/blog/the-nix-moment/) (4 days ago)
+- [Long-term support for Determinate Secure Packages 25.11](https://determinate.systems/blog/secure-packages-2511-support/) (2 days ago)
+- [The Nix moment](https://determinate.systems/blog/the-nix-moment/) (5 days ago)
 - [Changelog: Determinate Nix 3.17.3](https://determinate.systems/blog/changelog-determinate-nix-3-17-3/) (3 weeks ago)
 - [Support for AWS GovCloud and European Sovereign Cloud](https://determinate.systems/blog/govcloud-eusc/) (1 month ago)
 - [Extensible flake outputs with flake schemas](https://determinate.systems/blog/introducing-flake-schemas/) (1 month ago)
