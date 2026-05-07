@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Sentry crash reports for Determinate Nix](https://determinate.systems/blog/sentry/) (today)
-- [Long-term support for Determinate Secure Packages 25.11](https://determinate.systems/blog/secure-packages-2511-support/) (6 days ago)
+- [Sentry crash reports for Determinate Nix](https://determinate.systems/blog/sentry/) (1 day ago)
+- [Long-term support for Determinate Secure Packages 25.11](https://determinate.systems/blog/secure-packages-2511-support/) (1 week ago)
 - [The Nix moment](https://determinate.systems/blog/the-nix-moment/) (1 week ago)
-- [Changelog: Determinate Nix 3.17.3](https://determinate.systems/blog/changelog-determinate-nix-3-17-3/) (4 weeks ago)
+- [Changelog: Determinate Nix 3.17.3](https://determinate.systems/blog/changelog-determinate-nix-3-17-3/) (1 month ago)
 - [Support for AWS GovCloud and European Sovereign Cloud](https://determinate.systems/blog/govcloud-eusc/) (1 month ago)
