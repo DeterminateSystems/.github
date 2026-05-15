@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: Determinate Nix 3.20.0 (and a few others)](https://determinate.systems/blog/changelog-determinate-nix-3-20-0/) (6 days ago)
+- [Changelog: Determinate Nix 3.20.0 (and a few others)](https://determinate.systems/blog/changelog-determinate-nix-3-20-0/) (1 week ago)
 - [Sentry crash reports for Determinate Nix](https://determinate.systems/blog/sentry/) (1 week ago)
 - [Long-term support for Determinate Secure Packages 25.11](https://determinate.systems/blog/secure-packages-2511-support/) (2 weeks ago)
 - [The Nix moment](https://determinate.systems/blog/the-nix-moment/) (2 weeks ago)
