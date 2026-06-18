@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing Nixpkgs cooldowns](https://determinate.systems/blog/nixpkgs-cooldown/) (2 days ago)
-- [Announcing Determinate Secure Packages 26.05](https://determinate.systems/blog/determinate-secure-packages-26-05/) (5 days ago)
-- [Introducing FlakeBOM, a CLI for generating SBOMs from Nix flakes](https://determinate.systems/blog/introducing-flakebom/) (6 days ago)
+- [Introducing Nixpkgs cooldowns](https://determinate.systems/blog/nixpkgs-cooldown/) (3 days ago)
+- [Announcing Determinate Secure Packages 26.05](https://determinate.systems/blog/determinate-secure-packages-26-05/) (6 days ago)
+- [Introducing FlakeBOM, a CLI for generating SBOMs from Nix flakes](https://determinate.systems/blog/introducing-flakebom/) (1 week ago)
 - [Finally, a secure Nixpkgs for the enterprise: an update on Determinate Secure Packages](https://determinate.systems/blog/supply-chain-update/) (1 week ago)
 - [Nix is set to revolutionize the software supply chain](https://determinate.systems/blog/core-paradigm-supply-chain/) (3 weeks ago)
