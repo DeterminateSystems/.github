@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [An interface change for flake schemas](https://determinate.systems/blog/flake-schemas-change/) (5 days ago)
+- [An interface change for flake schemas](https://determinate.systems/blog/flake-schemas-change/) (6 days ago)
 - [Introducing Nixpkgs cooldowns](https://determinate.systems/blog/nixpkgs-cooldown/) (1 week ago)
 - [Announcing Determinate Secure Packages 26.05](https://determinate.systems/blog/determinate-secure-packages-26-05/) (1 week ago)
 - [Introducing FlakeBOM, a CLI for generating SBOMs from Nix flakes](https://determinate.systems/blog/introducing-flakebom/) (1 week ago)
