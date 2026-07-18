@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: Determinate Nix 3.21.7](https://determinate.systems/blog/changelog-determinate-nix-3-21-7/) (today)
-- [FlakeHub now has FedRAMP High Authorization](https://determinate.systems/blog/flakehub-fedramp-high/) (2 days ago)
-- [An interface change for flake schemas](https://determinate.systems/blog/flake-schemas-change/) (4 weeks ago)
+- [Changelog: Determinate Nix 3.21.7](https://determinate.systems/blog/changelog-determinate-nix-3-21-7/) (1 day ago)
+- [FlakeHub now has FedRAMP High Authorization](https://determinate.systems/blog/flakehub-fedramp-high/) (3 days ago)
+- [An interface change for flake schemas](https://determinate.systems/blog/flake-schemas-change/) (1 month ago)
 - [Introducing Nixpkgs cooldowns](https://determinate.systems/blog/nixpkgs-cooldown/) (1 month ago)
 - [Announcing Determinate Secure Packages 26.05](https://determinate.systems/blog/determinate-secure-packages-26-05/) (1 month ago)
