@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: FlakeHub Cache edge routing and reliability improvements](https://determinate.systems/blog/changelog-determinate-nix-3-21-8/) (today)
+- [Changelog: FlakeHub Cache edge routing and reliability improvements](https://determinate.systems/blog/changelog-determinate-nix-3-21-8/) (1 day ago)
 - [Changelog: Determinate Nix 3.21.7](https://determinate.systems/blog/changelog-determinate-nix-3-21-7/) (1 week ago)
 - [FlakeHub now has FedRAMP High Authorization](https://determinate.systems/blog/flakehub-fedramp-high/) (2 weeks ago)
 - [An interface change for flake schemas](https://determinate.systems/blog/flake-schemas-change/) (1 month ago)
