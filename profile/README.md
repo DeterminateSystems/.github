@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Introducing FlakeAudit, a CLI for evaluating CycloneDX SBOMs against custom policies](https://determinate.systems/blog/introducing-flakeaudit/) (today)
 - [Changelog: FlakeHub Cache edge routing and reliability improvements](https://determinate.systems/blog/changelog-determinate-nix-3-21-8/) (5 days ago)
 - [Changelog: Determinate Nix 3.21.7](https://determinate.systems/blog/changelog-determinate-nix-3-21-7/) (2 weeks ago)
 - [FlakeHub now has FedRAMP High Authorization](https://determinate.systems/blog/flakehub-fedramp-high/) (2 weeks ago)
 - [An interface change for flake schemas](https://determinate.systems/blog/flake-schemas-change/) (1 month ago)
-- [Introducing Nixpkgs cooldowns](https://determinate.systems/blog/nixpkgs-cooldown/) (1 month ago)
