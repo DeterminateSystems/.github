@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: a new upstream base, GC roots for nix eval, and a faster nix copy](https://determinate.systems/blog/changelog-determinate-nix-3-22-2/) (today)
-- [The EU Cyber Resilience Act is coming, and Determinate is the missing link in your supply chain](https://determinate.systems/blog/nix-cyber-resilience-act/) (1 week ago)
+- [Changelog: a new upstream base, GC roots for nix eval, and a faster nix copy](https://determinate.systems/blog/changelog-determinate-nix-3-22-2/) (1 day ago)
+- [The EU Cyber Resilience Act is coming, and Determinate is the missing link in your supply chain](https://determinate.systems/blog/nix-cyber-resilience-act/) (2 weeks ago)
 - [Changelog: faster evaluation and FedRAMP cache keys](https://determinate.systems/blog/changelog-determinate-nix-3-21-9/) (3 weeks ago)
 - [Introducing FlakeAudit, a CLI for evaluating CycloneDX SBOMs against custom policies](https://determinate.systems/blog/introducing-flakeaudit/) (3 weeks ago)
 - [Changelog: FlakeHub Cache edge routing and reliability improvements](https://determinate.systems/blog/changelog-determinate-nix-3-21-8/) (4 weeks ago)
