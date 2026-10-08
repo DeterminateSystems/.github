@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [OpenTelemetry tracing for Determinate Nix](https://determinate.systems/blog/determinate-nix-opentelemetry/) (today)
 - [Introducing Determinate Secure Packages LTS](https://determinate.systems/blog/determinate-secure-packages-lts/) (1 day ago)
 - [FlakeHub now supports GitHub Enterprise Managed Users](https://determinate.systems/blog/flakehub-github-enterprise-managed-users/) (3 weeks ago)
 - [A window into our security processes: introducing the Determinate Secure Packages CVE Remediation Dashboard](https://determinate.systems/blog/secure-packages-cve-dashboard/) (1 month ago)
 - [Changelog: a new upstream base, GC roots for nix eval, and a faster nix copy](https://determinate.systems/blog/changelog-determinate-nix-3-22-2/) (1 month ago)
-- [The EU Cyber Resilience Act is coming, and Determinate is the missing link in your supply chain](https://determinate.systems/blog/nix-cyber-resilience-act/) (1 month ago)
