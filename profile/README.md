@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (today)
+- [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (1 day ago)
 - [OpenTelemetry tracing for Determinate Nix](https://determinate.systems/blog/determinate-nix-opentelemetry/) (1 week ago)
 - [Introducing Determinate Secure Packages LTS](https://determinate.systems/blog/determinate-secure-packages-lts/) (1 week ago)
 - [FlakeHub now supports GitHub Enterprise Managed Users](https://determinate.systems/blog/flakehub-github-enterprise-managed-users/) (1 month ago)
