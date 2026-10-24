@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: security fixes, OpenTelemetry tracing, baked flakes, fiber-based parallel evaluation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-23-3/) (3 days ago)
-- [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (4 days ago)
+- [Changelog: security fixes, OpenTelemetry tracing, baked flakes, fiber-based parallel evaluation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-23-3/) (4 days ago)
+- [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (5 days ago)
 - [OpenTelemetry tracing for Determinate Nix](https://determinate.systems/blog/determinate-nix-opentelemetry/) (2 weeks ago)
 - [Introducing Determinate Secure Packages LTS](https://determinate.systems/blog/determinate-secure-packages-lts/) (2 weeks ago)
 - [FlakeHub now supports GitHub Enterprise Managed Users](https://determinate.systems/blog/flakehub-github-enterprise-managed-users/) (1 month ago)
