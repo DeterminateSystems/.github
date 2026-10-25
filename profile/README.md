@@ -18,8 +18,8 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Emergency Legacy Extension now available for NixOS 25.05](https://determinate.systems/blog/emergency-legacy-extension-for-nixos-25-05/) (today)
-- [Changelog: security fixes, OpenTelemetry tracing, baked flakes, fiber-based parallel evaluation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-23-3/) (4 days ago)
-- [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (5 days ago)
+- [Emergency Legacy Extension now available for NixOS 25.05](https://determinate.systems/blog/emergency-legacy-extension-for-nixos-25-05/) (1 day ago)
+- [Changelog: security fixes, OpenTelemetry tracing, baked flakes, fiber-based parallel evaluation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-23-3/) (5 days ago)
+- [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (6 days ago)
 - [OpenTelemetry tracing for Determinate Nix](https://determinate.systems/blog/determinate-nix-opentelemetry/) (2 weeks ago)
 - [Introducing Determinate Secure Packages LTS](https://determinate.systems/blog/determinate-secure-packages-lts/) (2 weeks ago)
