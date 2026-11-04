@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Changelog: an important security fix, nix top, faster garbage collection, parallel instantiation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-24-1/) (6 days ago)
+- [Changelog: an important security fix, nix top, faster garbage collection, parallel instantiation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-24-1/) (1 week ago)
 - [Emergency Legacy Extension now available for NixOS 25.05](https://determinate.systems/blog/emergency-legacy-extension-for-nixos-25-05/) (1 week ago)
 - [Changelog: security fixes, OpenTelemetry tracing, baked flakes, fiber-based parallel evaluation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-23-3/) (2 weeks ago)
 - [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (2 weeks ago)
