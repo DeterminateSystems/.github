@@ -22,4 +22,4 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Emergency Legacy Extension now available for NixOS 25.05](https://determinate.systems/blog/emergency-legacy-extension-for-nixos-25-05/) (1 week ago)
 - [Changelog: security fixes, OpenTelemetry tracing, baked flakes, fiber-based parallel evaluation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-23-3/) (2 weeks ago)
 - [Native Linux Builder is now generally available](https://determinate.systems/blog/native-linux-builder-ga/) (2 weeks ago)
-- [OpenTelemetry tracing for Determinate Nix](https://determinate.systems/blog/determinate-nix-opentelemetry/) (3 weeks ago)
+- [OpenTelemetry tracing for Determinate Nix](https://determinate.systems/blog/determinate-nix-opentelemetry/) (4 weeks ago)
