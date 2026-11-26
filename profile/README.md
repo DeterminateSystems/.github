@@ -18,7 +18,7 @@ We are [Determinate Systems](https://determinate.systems).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Nix and Determinate are a better foundation for keeping your systems secure](https://determinate.systems/blog/nix-secure-foundation/) (2 weeks ago)
+- [Nix and Determinate are a better foundation for keeping your systems secure](https://determinate.systems/blog/nix-secure-foundation/) (3 weeks ago)
 - [Changelog: an important security fix, nix top, faster garbage collection, parallel instantiation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-24-1/) (4 weeks ago)
 - [Emergency Legacy Extension now available for NixOS 25.05](https://determinate.systems/blog/emergency-legacy-extension-for-nixos-25-05/) (1 month ago)
 - [Changelog: security fixes, OpenTelemetry tracing, baked flakes, fiber-based parallel evaluation, and more](https://determinate.systems/blog/changelog-determinate-nix-3-23-3/) (1 month ago)
